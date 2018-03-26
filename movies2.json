@@ -1,0 +1,17 @@
+[
+   {
+      "name" : "Movie1",
+      "id": 1,
+      "src": "movie1.jpeg"
+   },
+   {
+      "name" : "Movie2",
+      "id": 2,
+      "src": "movie2.jpeg"
+   },
+   {
+      "name" : "Movie3",
+      "id": 3,
+      "src": "movie3.jpeg"
+   }
+]

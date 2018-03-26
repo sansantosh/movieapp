@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="./css/app.css">
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script type="text/javascript" src="./scripts/main.js"></script>
+	</head>
+	<body>
+		<form>
+		  	<div>
+			    <label for="party">Movies:</label>
+			    <input type="date" id="party" name="party" min="2007-04-01" max="2027-04-20" required />
+			    <span class="validity"></span>
+		 	</div>
+		  	<div>
+		    	<button id="getMovies"> Get Movies</button>
+			</div>
+			<div id="movieDisplay">
+			</div>
+		</form>
+	</body>
+</html>
